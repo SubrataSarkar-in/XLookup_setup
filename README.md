@@ -1,5 +1,13 @@
 # XLookup_setup
 # XLOOKUP for All Excel Versions — VBA-Based Function
+# 📁 Download Set-up File:
+<a href="https://github.com/SubrataSarkar-in/XLookup_setup/blob/569d54be724e859721c4ed93c2e2e5e1c60f7cb0/Xlookup_setup.xlam">
+  <img
+    src="https://img.shields.io/badge/⬇_DOWNLOAD_FILE-007BFF?style=for-the-badge&logoColor=white"
+    alt="Download File"
+  />
+</a>
+
 ## 📌 About the Project
 
 #XLOOKUP function is a powerful and flexible lookup tool that overcomes many of the limitations of the traditional VLOOKUP and HLOOKUP functions. However, XLOOKUP is not available in older versions of Microsoft Excel, leaving many users unable to take advantage of its advanced capabilities.
@@ -109,3 +117,4 @@ Please read these precautions before installing or using the function.
    * Accountants and finance professionals handling spreadsheets.
    * Business users managing employee, inventory, sales, or customer data.
    * Data analysts who need flexible lookup functionality in legacy Excel environments.
+
