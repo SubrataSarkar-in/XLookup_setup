@@ -1,7 +1,7 @@
 # XLookup_setup
 # XLOOKUP for All Excel Versions — VBA-Based Function
 # 📁 Download Set-up File:
-<a href="https://github.com/SubrataSarkar-in/XLookup_setup/blob/569d54be724e859721c4ed93c2e2e5e1c60f7cb0/Xlookup_setup.xlam">
+<a href="https://github.com/SubrataSarkar-in/XLookup_setup/tree/main">
   <img
     src="https://img.shields.io/badge/⬇_DOWNLOAD_FILE-007BFF?style=for-the-badge&logoColor=white"
     alt="Download File"
